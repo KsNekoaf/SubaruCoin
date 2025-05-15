@@ -1,3 +1,6 @@
 # SubaruCoin
 京都すばる高校で使用できるコイン
-Python Djangoで作りましょう
+## 使用する技術
+Python Django
+<br> SQLite
+<br> React
