@@ -1,5 +1,5 @@
 # SubaruCoin
-京都すばる高校で使用できるコイン
+アナログゲームで使うためのコイン
 ## 使用する技術
 Python Django
 <br> SQLite
